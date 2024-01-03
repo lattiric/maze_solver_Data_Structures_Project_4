@@ -1,0 +1,3 @@
+/Users/ricklattin/Documents/GitHub/21s-pa04-lattiric/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir
+/Users/ricklattin/Documents/GitHub/21s-pa04-lattiric/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
+/Users/ricklattin/Documents/GitHub/21s-pa04-lattiric/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
